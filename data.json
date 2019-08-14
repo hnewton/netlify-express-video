@@ -1,0 +1,203 @@
+{
+  "item": {
+    "theme": {
+      "color": "green",
+      "text_color": "text-gray-700",
+      "font": "Source Sans Pro",
+      "headline_shadows": "true",
+      "button": {
+        "color": "",
+        "rounded": true
+      }
+    },
+    "logo": {
+      "image": "https://res.cloudinary.com/pagemutant/image/upload/s--UsCwl3fT--/f_auto,q_auto/v1384451368/PageMutant%20logo.jpg",
+      "link": "https://www.pagemutant.com",
+      "alt_text": "PageMutant logo"
+    },
+    "seo": {
+      "title": "My SEO title",
+      "description": "My SEO seo_description",
+      "keywords": "keyword1, keyword2"
+    },
+    "hero": {
+      "underlay_image": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 200 200'%3E%3Cdefs%3E%3ClinearGradient id='a' gradientUnits='userSpaceOnUse' x1='100' y1='33' x2='100' y2='-3'%3E%3Cstop offset='0' stop-color='%23000' stop-opacity='0'/%3E%3Cstop offset='1' stop-color='%23000' stop-opacity='1'/%3E%3C/linearGradient%3E%3ClinearGradient id='b' gradientUnits='userSpaceOnUse' x1='100' y1='135' x2='100' y2='97'%3E%3Cstop offset='0' stop-color='%23000' stop-opacity='0'/%3E%3Cstop offset='1' stop-color='%23000' stop-opacity='1'/%3E%3C/linearGradient%3E%3C/defs%3E%3Cg fill='%23ca481d' fill-opacity='0.6'%3E%3Crect x='100' width='100' height='100'/%3E%3Crect y='100' width='100' height='100'/%3E%3C/g%3E%3Cg fill-opacity='0.5'%3E%3Cpolygon fill='url(%23a)' points='100 30 0 0 200 0'/%3E%3Cpolygon fill='url(%23b)' points='100 100 0 130 0 100 200 100 200 130'/%3E%3C/g%3E%3C/svg%3E",
+      "headline": "My Spiffy Headline",
+      "subheader": "My extra subheader",
+      "body_copy": "",
+      "button1": "Get Started",
+      "button2": "Can PageMutant Help?",
+      "main_image": ""
+    },
+    "section": {
+      "2blocks": {
+        "header": "How PageMutant Works",
+        "block1": {
+          "image": "https://res.cloudinary.com/pagemutant/image/upload/s--LALUz-_R--/c_fit,f_auto,q_auto/brand-1_xiel9u.jpg",
+          "alt_text": "Your template",
+          "title": "Your Template",
+          "text": "Provide your desired template or we can help you modify one."
+        },
+        "block2": {
+          "image": "https://res.cloudinary.com/pagemutant/image/upload/s--yqhwYNnK--/c_fit,f_auto,q_auto/manage-with-ease-1_vruvw1.jpg",
+          "alt_text": "Painless content entry",
+          "title": "Painless Content Entry",
+          "text": "Define and update all of your content using the power of your favorite spreadsheet."
+        }
+      },
+      "3blocks": {
+        "header": "How PageMutant Works",
+        "block1": {
+          "image": "https://res.cloudinary.com/pagemutant/image/upload/s--LALUz-_R--/c_fit,f_auto,q_auto/brand-1_xiel9u.jpg",
+          "alt_text": "Your template",
+          "title": "Your Template",
+          "text": "Provide your desired template or we can help you modify one."
+        },
+        "block2": {
+          "image": "https://res.cloudinary.com/pagemutant/image/upload/s--yqhwYNnK--/c_fit,f_auto,q_auto/manage-with-ease-1_vruvw1.jpg",
+          "alt_text": "Painless content entry",
+          "title": "Painless Content Entry",
+          "text": "Define and update all of your content using the power of your favorite spreadsheet."
+        },
+        "block3": {
+          "image": "https://res.cloudinary.com/pagemutant/image/upload/s--wsHiCOII--/c_fit,f_auto,q_auto/page-editor_lr5h90.jpg",
+          "alt_text": "bulk generate",
+          "title": "Bulk Generate Customized Landing Pages",
+          "text": "We deliver your custom pages in 24 hours or less. We can even help you deploy them."
+        }
+      },
+      "4blocks": {
+        "header": "How PageMutant Works",
+        "block1": {
+          "image": "https://res.cloudinary.com/pagemutant/image/upload/s--LALUz-_R--/c_fit,f_auto,q_auto/brand-1_xiel9u.jpg",
+          "alt_text": "Your template",
+          "title": "Your Template",
+          "text": "Provide your desired template or we can help you modify one."
+        },
+        "block2": {
+          "image": "https://res.cloudinary.com/pagemutant/image/upload/s--yqhwYNnK--/c_fit,f_auto,q_auto/manage-with-ease-1_vruvw1.jpg",
+          "alt_text": "Painless content entry",
+          "title": "Painless Content Entry",
+          "text": "Define and update all of your content using the power of your favorite spreadsheet."
+        },
+        "block3": {
+          "image": "https://res.cloudinary.com/pagemutant/image/upload/s--wsHiCOII--/c_fit,f_auto,q_auto/page-editor_lr5h90.jpg",
+          "alt_text": "bulk generate",
+          "title": "Bulk Generate Customized Landing Pages",
+          "text": "We deliver your custom pages in 24 hours or less. We can even help you deploy them."
+        }
+      }
+    },
+    "feature": {
+      "header": "Feature Section",
+      "left": {
+        "image": "https://res.cloudinary.com/pagemutant/image/upload/s--yqhwYNnK--/c_fit,f_auto,q_auto/manage-with-ease-1_vruvw1.jpg",
+        "alt_text": "Left content entry",
+        "title": "Left Content Entry",
+        "text": "Define and update all of your content using the power of your favorite spreadsheet."
+      },
+      "right": {
+        "image": "https://res.cloudinary.com/pagemutant/image/upload/s--yqhwYNnK--/c_fit,f_auto,q_auto/manage-with-ease-1_vruvw1.jpg",
+        "alt_text": "Right content entry",
+        "title": "Right Content Entry",
+        "text": "Define and update all of your content using the power of your favorite spreadsheet."
+      }
+    },
+    "content": {
+      "header": "Content Section",
+      "left": {
+        "image": "https://res.cloudinary.com/pagemutant/image/upload/s--yqhwYNnK--/c_fit,f_auto,q_auto/manage-with-ease-1_vruvw1.jpg",
+        "alt_text": "Painless content entry",
+        "title": "Painless Content Entry",
+        "text": "Define and update all of your content using the power of your favorite spreadsheet."
+      },
+      "right": {
+        "image": "https://res.cloudinary.com/pagemutant/image/upload/s--yqhwYNnK--/c_fit,f_auto,q_auto/manage-with-ease-1_vruvw1.jpg",
+        "alt_text": "Painless content entry",
+        "title": "Painless Content Entry",
+        "text": "Define and update all of your content using the power of your favorite spreadsheet."
+      }
+    },
+    "call_to_action_block": {
+      "header": "Get More Leads with Landing Pages",
+      "subheader": "It makes the point",
+      "button": "Dig it"
+    },
+    "testimonial": {
+      "quote1": {
+        "header": "",
+        "quote": "",
+        "name": "",
+        "image": ""
+      },
+      "quote2": {
+        "header": "",
+        "quote": "",
+        "name": "",
+        "image": ""
+      },
+      "quote3": {
+        "header": "",
+        "quote": "",
+        "name": "",
+        "image": ""
+      }
+    },
+    "gallery": {
+      "3blocks": {
+        "show": true,
+        "image1": {
+          "image": "https://images.unsplash.com/photo-1516176966905-58371240ba28?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=975&q=80",
+          "alt_text": "",
+          "caption": "A bridge"
+        },
+        "image2": {
+          "image": "https://images.unsplash.com/photo-1516176966905-58371240ba28?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=975&q=80",
+          "alt_text": "",
+          "caption": "A bridge"
+        },
+        "image3": {
+          "image": "https://images.unsplash.com/photo-1516176966905-58371240ba28?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=975&q=80",
+          "alt_text": "",
+          "caption": "A bridge"
+        },
+        "image4": {
+          "image": "https://images.unsplash.com/photo-1516176966905-58371240ba28?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=975&q=80",
+          "alt_text": "",
+          "caption": "A bridge"
+        }
+      },
+      "4blocks": {
+        "image1": {
+          "image": "https://images.unsplash.com/photo-1516176966905-58371240ba28?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=975&q=80",
+          "alt_text": "",
+          "caption": "A bridge"
+        },
+        "image2": {
+          "image": "https://images.unsplash.com/photo-1516176966905-58371240ba28?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=975&q=80",
+          "alt_text": "",
+          "caption": "A bridge"
+        },
+        "image3": {
+          "image": "https://images.unsplash.com/photo-1516176966905-58371240ba28?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=975&q=80",
+          "alt_text": "",
+          "caption": "A bridge"
+        },
+        "image4": {
+          "image": "https://images.unsplash.com/photo-1516176966905-58371240ba28?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=975&q=80",
+          "alt_text": "",
+          "caption": "A bridge"
+        }
+      }
+    },
+    "main_image": "",
+    "small_image": "",
+    "caption": "",
+    "embed": "",
+    "map": "",
+    "phone": "",
+    "copyright": "© 2019 PageMutant LLC",
+    "style": "h1 {color: blue;}",
+    "max": "override.css"
+  }
+}

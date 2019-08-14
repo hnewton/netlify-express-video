@@ -1,0 +1,21 @@
+{
+  "name": "netlify-express-video",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "./node_modules/.bin/netlify-lambda serve src",
+    "build": "./node_modules/.bin/netlify-lambda build src",
+    "serve": "nodemon app.js localhost 3000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.510.0",
+    "express": "^4.17.1",
+    "netlify-lambda": "^1.5.1",
+    "nunjucks": "^3.2.0",
+    "serverless-http": "^2.1.0"
+  }
+}
